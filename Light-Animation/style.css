@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+
+.container img {
+	width: 48%;
+	margin: 0 auto;
+	cursor: pointer;
+	filter: grayscale(100%);
+}
+
+.container img:hover {
+	filter: grayscale(0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
